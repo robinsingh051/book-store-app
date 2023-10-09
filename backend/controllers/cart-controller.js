@@ -6,7 +6,6 @@ exports.getCart = (req, res) => {
 };
 
 exports.addToCart = (req, res) => {
-  console.log(req.body);
   const bookId = req.body.bookId;
   const selectedBook = books.find((book) => book.id === bookId);
   cart.push(selectedBook);
