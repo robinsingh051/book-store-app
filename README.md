@@ -10,7 +10,6 @@ Welcome to the Book Store web application! This project is a simple web applicat
 
 - **View Book Details**: Users can click on a book to view its details, including the title, author, and description.
 
-- **React Bootstrap**: The project uses React Bootstrap for responsive and stylish UI components.
 
 ## Technologies Used
 
@@ -60,13 +59,3 @@ The backend server will run on `http://localhost:4000`.
 The frontend development server will run on `http://localhost:3000`.
 
 5. Open your web browser and navigate to `http://localhost:3000` to access the Book Store web application.
-
-## Usage
-
-- Browse the list of books on the home page.
-
-- Click the "Add to Cart" button to add books to your cart.
-
-- Click on a book to view its details.
-
-
