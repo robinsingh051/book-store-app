@@ -8,7 +8,7 @@ Welcome to the Book Store web application! This project is a simple web applicat
 
 - **Add to Cart**: Users can add books to their cart by clicking the "Add to Cart" button on each book.
 
-- **View Book Details**: Users can click on a book to view its details, including the title, author, and description.
+- **View Book Details**: Users can click on a show details button to view its details, including the title, author, and description.
 
 
 ## Technologies Used
